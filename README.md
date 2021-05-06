@@ -1,7 +1,7 @@
 # Image Processing Operations
 <hr>
- In this particular notebook, we are perfroming different image processing operations using OpenCV such as :-<br>
-
+ In this particular notebook, we are performing different image processing operations using OpenCV such as :-<br>
+<br>
 
 * Blending and Pasting Images
 * Image Thresholding
